@@ -2,7 +2,7 @@
 The simon Game is a memory based game in which players must remember the sequence and repeat it by pressing the coloured pads in correct order.This is an online version of the game built just using vanilla Javascript just to enjoy and experience the fun of the classic game. 
 Also I tried changing the colours to give it a unique look for some time.
 
-# How to play
+## How to play
 - At the beginning of the game, one of the 4 card flashes up randomly along with the associated sound that plays when the card gets clicked.
 - As a player, you have to press the same card and also remember it.
 - If the player clicks the correct card it moves on to the next level by randomly flashing another card.
@@ -10,10 +10,10 @@ Also I tried changing the colours to give it a unique look for some time.
 - After each correct round, a new card is added to the series and the game becomes more difficult with increasing levels.
 - If the player chooses the wrong card it's Game Over and player can restart the game but if the player doesn't make any mistake it keeps going on and on and on... 
 
-# Tech Stack Used
+## Tech Stack Used
 - HTML, CSS, Javascript
 
-# Getting Started
+## Getting Started
 To work or edit the code:
 1. **Clone the Repo**: Use the `git clone` command to clone the repository locally to your computer.
 
