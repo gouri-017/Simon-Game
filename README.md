@@ -2,7 +2,12 @@
 The simon Game is a memory based game in which players must remember the sequence and repeat it by pressing the coloured pads in correct order.This is an online version of the game built just using vanilla Javascript just to enjoy and experience the fun of the classic game. 
 Also I tried changing the colours to give it a unique look for some time.
 
+ ## Deployment
+ Play the Simon game [here](https://gouri-017.github.io/Simon-Game/)
+
+
 ## How to play
+- click [here](https://gouri-017.github.io/Simon-Game/) to play the game
 - At the beginning of the game, one of the 4 card flashes up randomly along with the associated sound that plays when the card gets clicked.
 - As a player, you have to press the same card and also remember it.
 - If the player clicks the correct card it moves on to the next level by randomly flashing another card.
